@@ -1,0 +1,42 @@
+body{
+    background-color: darkgray;
+    margin: 40px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding:13.8px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    background-color: lightpink;
+}
+
+.space{
+    width:100px;
+    height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+button{
+    background-color: darkgrey;
+    
+}
+button img{
+    width: 20px;
+    position: sticky;
+    height: 19px;
+    background-color: darkgray;
+}
+
+
+
